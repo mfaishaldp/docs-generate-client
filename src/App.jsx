@@ -2,7 +2,6 @@ import { useState } from "react";
 import UploadTab from "./components/UploadTab";
 import ConfigTab from "./components/ConfigTab";
 import ResultTab from "./components/ResultTab";
-//ee
 
 const DEFAULT_STATE = {
   expectedHeaders: ["customer", "qty", "price", "date"],
