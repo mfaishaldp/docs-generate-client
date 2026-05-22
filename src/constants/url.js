@@ -1,0 +1,1 @@
+export const url = `https://debian.mfaishaldp.my.id/fastapi`
